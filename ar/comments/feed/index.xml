@@ -7,8 +7,8 @@
 	>
 <channel>
 	<title>
-	Comments for Medex	</title>
-	<atom:link href="https://ahmed-dagger.github.io/MedexSmartsolutions/comments/feed/" rel="self" type="application/rss+xml" />
+	تعليقات لموقع Medex	</title>
+	<atom:link href="https://ahmed-dagger.github.io/MedexSmartsolutions/ar/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ahmed-dagger.github.io/MedexSmartsolutions</link>
 	<description></description>
 	<lastBuildDate>Sun, 11 Feb 2024 15:05:18 +0000</lastBuildDate>
